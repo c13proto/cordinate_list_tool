@@ -1,0 +1,34 @@
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.exe.config
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.exe
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.pdb
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.csprojResolveAssemblyReference.cache
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.Main.resources
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.Properties.Resources.resources
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.csproj.GenerateResource.Cache
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.exe
+c:\users\ksuser\documents\visual studio 2015\Projects\座標リスト作成ツール\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.pdb
+<<<<<<< HEAD
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.exe.config
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.exe
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.pdb
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.exe
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.pdb
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.csprojResolveAssemblyReference.cache
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.Main.resources
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.Properties.Resources.resources
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.写真画面.resources
+C:\Users\ksuser\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.csproj.GenerateResource.Cache
+=======
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.exe.config
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.exe
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.pdb
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.exe
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.pdb
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.csprojResolveAssemblyReference.cache
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.Main.resources
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.Properties.Resources.resources
+C:\Users\idry7lash629\Documents\GitHub\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.csproj.GenerateResource.Cache
+>>>>>>> origin/master
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\bin\Debug\座標リスト作成ツール.exe.config
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.exe
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\Debug\座標リスト作成ツール.pdb

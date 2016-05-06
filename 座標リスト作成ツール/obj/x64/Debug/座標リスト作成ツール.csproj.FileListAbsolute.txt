@@ -1,0 +1,10 @@
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\bin\x64\Debug\座標リスト作成ツール.exe.config
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\x64\Debug\座標リスト作成ツール.csprojResolveAssemblyReference.cache
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\x64\Debug\座標リスト作成ツール.Main.resources
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\x64\Debug\座標リスト作成ツール.Properties.Resources.resources
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\x64\Debug\座標リスト作成ツール.写真画面.resources
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\x64\Debug\座標リスト作成ツール.csproj.GenerateResource.Cache
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\bin\x64\Debug\座標リスト作成ツール.exe
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\bin\x64\Debug\座標リスト作成ツール.pdb
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\x64\Debug\座標リスト作成ツール.exe
+C:\Users\ksuser\Desktop\cordinate_list_tool\座標リスト作成ツール\obj\x64\Debug\座標リスト作成ツール.pdb
