@@ -51,15 +51,21 @@ namespace 座標リスト作成ツール
 
         private void Click_Save(object sender, EventArgs e)
         {
-            SaveFileDialog dialog = new SaveFileDialog()
-            {
-            };
-            DialogResult result = dialog.ShowDialog();
+            SaveFileDialog sfd = new SaveFileDialog();//SaveFileDialogクラスのインスタンスを作成
+            sfd.Filter = "csvファイル|*.csv|全てのファイル|*.*";//[ファイルの種類]に表示される選択肢を指定する
+            sfd.FilterIndex = 1;//[ファイルの種類]ではじめに「画像ファイル」が選択されているようにする
+            sfd.Title = "保存先のファイルを選択してください";//タイトルを設定する
+            sfd.RestoreDirectory = true;//ダイアログボックスを閉じる前に現在のディレクトリを復元するようにする
+            sfd.OverwritePrompt = true;//既に存在するファイル名を指定したとき警告する．デフォルトでTrueなので指定する必要はない
+            sfd.CheckPathExists = true;//存在しないパスが指定されたとき警告を表示する．デフォルトでTrueなので指定する必要はない
+
+
+            DialogResult result = sfd.ShowDialog();
             if (result == System.Windows.Forms.DialogResult.OK)
             {
                 String 結果 = textBox_list.Text;
 
-                using (StreamWriter w = new StreamWriter(dialog.FileName))
+                using (StreamWriter w = new StreamWriter(sfd.FileName))
                 {
                     w.Write(結果);
                     w.Dispose();
